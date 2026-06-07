@@ -4,8 +4,8 @@ An intuitive, mobile-first user interface designed for a seamless food ordering 
 
 🔗 Live Prototype
 
-Figma Prototype:👉
-https://www.figma.com/proto/ZYFQXEWdzCacWgHWW3FzZU/food-menu?node-id=9-7&t=Isr3RXuduw30vNPO-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3
+Figma Prototype:👉https://www.figma.com/proto/ZYFQXEWdzCacWgHWW3FzZU/food-menu?node-id=1-3&p=f&t=PgCEZea0qp0O2JC8-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3
+
 
 ## 📱 User Flow & Screens
 
