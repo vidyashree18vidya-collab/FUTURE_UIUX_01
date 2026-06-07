@@ -5,11 +5,11 @@ An intuitive, mobile-first user interface designed for a seamless food ordering 
 ## 📱 User Flow & Screens
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cd38ffac-248d-43b1-ba68-34e60ca60c5294" width="23%" alt="Splash Screen" />
-  <img src="https://github.com/user-attachments/assets/b4f82519-b688-4833-b911-acfde69f9297" width="23%" alt="Menu Exploration Screen" />
-  <img src="https://github.com/user-attachments/assets/9056a879-3e19-429b-9e61-3ee2232ddbb5" width="23%" alt="Product Detail Screen" />
-  <img src="https://github.com/user-attachments/assets/8e78d627-2f07-4405-a586-67fbb5e55b53" width="23%" alt="Checkout Screen" />
-</p>
+  <img width="393" height="852" alt="iPhone 16 - 1" src="https://github.com/user-attachments/assets/48c44618-2f52-4953-8502-9f0141700f67" />
+<img width="393" height="852" alt="iPhone 16 - 2" src="https://github.com/user-attachments/assets/6e92ee16-815b-44b1-a51b-14d52f8f9a8e" />
+<img width="393" height="852" alt="iPhone 16 - 3" src="https://github.com/user-attachments/assets/e7d5ca41-7cb5-450f-bbb8-33383ff4db27" />
+<img width="393" height="852" alt="iPhone 16 - 4" src="https://github.com/user-attachments/assets/846ae23c-5136-4c9a-b498-d6deb28296c1" />
+
 
 ---
 
