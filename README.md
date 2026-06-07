@@ -28,4 +28,4 @@ Friction Reduction:* Displays a clear order summary itemization, transparent cal
 🛠️ Technical Specifications
 - Design Platform:Figma
 - Target Device Frame:iPhone 16 Layout Grid
--
+
